@@ -1,0 +1,15 @@
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\RestApiModeloDDD.Domain.Core.deps.json
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\RestApiModeloDDD.Domain.Core.dll
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\ref\RestApiModeloDDD.Domain.Core.dll
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\RestApiModeloDDD.Domain.dll
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\net5.0\RestApiModeloDDD.Domain.pdb
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.AssemblyInfo.cs
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.dll
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\ref\RestApiModeloDDD.Domain.Core.dll
+C:\Users\ruber\Desktop\Application\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\net5.0\RestApiModeloDDD.Domain.Core.pdb
